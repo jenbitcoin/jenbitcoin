@@ -33,9 +33,9 @@
   - 👩‍❤️‍👨 married
   - 👩‍🍼 have 2 boys, a 3yr old and a 10 month old.
   - 💻 Objective-C, Swift, RxSwift, SwiftUI, UIKit
-  - ✍️ Exploring Programming Content Writing with <a href="https://www.phaverageprogrammer.com">
+  - ✍️ have started doing programming content writing on <a href="https://www.phaverageprogrammer.com">
     <img src="https://img.shields.io/badge/My Programming Website-<brightgreen>"/>
     </a>
-  - 📹 Create programming videos
+  - 📹 plans to revive my programming Youtube channel
   - ⚡ In my free time, I read self-help, programming, and financial books.
   - 📫 jencurativo@gmail.com
