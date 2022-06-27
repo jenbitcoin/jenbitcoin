@@ -10,7 +10,7 @@
   </a>
   <a href="https://twitter.com/iosmadesimple">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>  
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=jenbitcoin&style=flat-square&color=blue" alt=""/>
@@ -26,3 +26,16 @@
     
 </div>
 
+  ---
+
+### :woman_technologist: About Me : 
+  I am an iOS Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+  - 👩‍❤️‍👨 married
+  - 👩‍🍼 have 2 boys, a 3yr old and a 10 month old.
+  - :telescope: Objective-C, Swift, RxSwift, SwiftUI, UIKit
+  - :seedling: Exploring Programming Content Writing with <a href="https://www.phaverageprogrammer.com">
+    <img src="https://img.shields.io/badge/Programming Website-<brightgreen>"/>
+    </a>
+  - :seedling: Create programming videos
+  - :zap: In my free time, I read self-help, programming, financial books.
+  - :mailbox: jencurativo@gmail.com
