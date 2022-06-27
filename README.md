@@ -32,10 +32,10 @@
   I am an iOS Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
   - 👩‍❤️‍👨 married
   - 👩‍🍼 have 2 boys, a 3yr old and a 10 month old.
-  - :telescope: Objective-C, Swift, RxSwift, SwiftUI, UIKit
-  - :seedling: Exploring Programming Content Writing with <a href="https://www.phaverageprogrammer.com">
-    <img src="https://img.shields.io/badge/Programming Website-<brightgreen>"/>
+  - 💻 Objective-C, Swift, RxSwift, SwiftUI, UIKit
+  - ✍️ Exploring Programming Content Writing with <a href="https://www.phaverageprogrammer.com">
+    <img src="https://img.shields.io/badge/My Programming Website-<brightgreen>"/>
     </a>
-  - :seedling: Create programming videos
-  - :zap: In my free time, I read self-help, programming, financial books.
-  - :mailbox: jencurativo@gmail.com
+  - 📹 Create programming videos
+  - ⚡ In my free time, I read self-help, programming, and financial books.
+  - 📫 jencurativo@gmail.com
