@@ -29,13 +29,13 @@
   ---
 
 ### :woman_technologist: About Me : 
-  I am an iOS Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+  I am a Senior Software Engineer (iOS) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
   - 👩‍❤️‍👨 married
-  - 👩‍🍼 have 2 boys, a 3yr old and a 10 month old.
+  - 👩‍🍼 have 2 boys, a 5yr old and a 2yr old.
   - 💻 Objective-C, Swift, RxSwift, SwiftUI, UIKit
   - ✍️ have started doing programming content writing on <a href="https://www.phaverageprogrammer.com">
     <img src="https://img.shields.io/badge/My Programming Website-<brightgreen>"/>
     </a>
-  - 📹 plans to revive my programming Youtube channel
+  - 📹 have a Programming for Beginners Youtube channel
   - ⚡ In my free time, I read self-help, programming, and financial books.
   - 📫 jencurativo@gmail.com
